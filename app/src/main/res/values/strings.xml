@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Purchase/Booking Detail</string>
+    <string name="product">Product</string>
+    <string name="item_product">Item Product</string>
+    <string name="price_product">Price</string>
+    <string name="quatity_product">Quatity</string>
+    <string name="total_product">Total</string>
+    <string name="total_price_product">Total Price of Product</string>
+    <string name="service">Service</string>
+    <string name="type_of_service">Type of Service</string>
+    <string name="price_service">Price</string>
+    <string name="total_price_service">Total Price Of Service</string>
+    <string name="total">Total</string>
+    <string name="item">Item</string>
+    <string name="price_all">Price</string>
+    <string name="total_price_of_service_and_product">Total Price of Service and Product</string>
+    <string name="discount">Discount</string>
+    <string name="total_price_product2">Total Price Product</string>
+    <string name="total_price_service2">Total Price Service</string>
+</resources>
